@@ -1,1 +1,1 @@
-# -number-of-possible-triangles-problem
+# number-of-possible-triangles-problem
